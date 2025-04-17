@@ -1,6 +1,6 @@
 # SerpScoop
 
-This is a fun implementation of an MCP server - Build a functional MCP server - Integrate with clients of your choice. 
+This is a fun & basic implementation of an MCP server - Build a functional MCP server - Integrate with clients of your choice. 
 
 # Prerequisites
 - MCP SDK
