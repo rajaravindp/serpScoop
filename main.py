@@ -5,7 +5,7 @@ from src.tools.news_tools import NewsTools
 import sys
 
 # Initialize MCP server
-mcp = FastMCP("mcp-pilot")
+mcp = FastMCP("serpscoop")
 
 def main():
     try:
