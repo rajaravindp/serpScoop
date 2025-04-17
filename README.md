@@ -14,7 +14,7 @@ This is a fun implementation of an MCP server - Build a functional MCP server - 
 Edit config file of your client to add the MCP servers of your choice. 
 <pre>{
   "mcpServers": {
-        "mcp-pilot": {
+        "serpscoop": {
         "command": "uv",
         "args": [
           "--directory",
