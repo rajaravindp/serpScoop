@@ -18,6 +18,6 @@ def get_folder_structure(root_path, exclude_dirs=None):
 
     return structure
 
-root_path = r"C:\Users\aravind.palepu\Python - Scripts\mcp-pilot"  
+root_path = r"path\to-your\project-root-dir"  
 folder_structure = get_folder_structure(root_path, exclude_dirs={"venv", "__pycache__"})
 print(folder_structure)
