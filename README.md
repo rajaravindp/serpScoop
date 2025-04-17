@@ -26,4 +26,6 @@ Edit config file of your client to add the MCP servers of your choice.
   }
 }
 </pre>
-  
+
+# MCP Python SDK
+https://github.com/modelcontextprotocol/python-sdk
