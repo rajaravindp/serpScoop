@@ -12,7 +12,7 @@ This is a fun implementation of an MCP server - Build a functional MCP server - 
 
 # Connecting to Clients
 Edit config file of your client to add the MCP servers of your choice. 
-<pre>```{
+<pre>{
   "mcpServers": {
         "mcp-pilot": {
         "command": "uv",
@@ -24,6 +24,6 @@ Edit config file of your client to add the MCP servers of your choice.
         ]
       }
   }
-}```
+}
 </pre>
   
