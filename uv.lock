@@ -217,7 +217,7 @@ cli = [
 ]
 
 [[package]]
-name = "mcp-pilot"
+name = "serpscoop"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
